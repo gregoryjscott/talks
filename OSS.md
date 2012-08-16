@@ -1,4 +1,4 @@
-# OSS by a former skeptic
+# OSS, presented by a former skeptic
 
 OSS vs. Proprietary, and why OSS is winning
 
@@ -14,45 +14,49 @@ GitHub
 
 * profile is your resume (employees & companies)
 
-* follow your fellow RDIers
+* follow your fellow [RDIers] (https://github.com/ResourceDataInc)
 
 git - remember VSS?
 
-cloud services - free for OSS, paid for closed
+cloud services - free for open, paid for closed
 
-* e.g. GitHub, Pivotal Tracker, RavenDB, Cloud9 IDE, etc.
+* e.g. [GitHub] (https://github.com/plans), [Pivotal Tracker] (http://www.pivotaltracker.com/pricing), [RavenDB] (http://ravendb.net/licensing), [Cloud9 IDE] (https://c9.io/site/pricing/), etc.
 
 HTML5 + CSS + JS world is exclusively OSS
 
 the most fun I've ever had coding
 
-* MvcTestIntegrationFramework
+* [MvcTestIntegrationFramework] (https://github.com/gregoryjscott/MvcIntegrationTestFramework) inspired by [Steve Sanderson blog post] (http://blog.stevensanderson.com/2009/06/11/integration-testing-your-aspnet-mvc-application/)
 
-* Steve Sanderson blog post
+* [Simpler] (https://github.com/gregoryjscott/Simpler)
 
-* Simpler
-
-* Jimmy Bogard blog post
-
-* Massive, PetaPoco, Dapper
+* other micro ORMs: [Massive] (https://github.com/robconery/massive/), [PetaPoco] (https://github.com/toptensoftware/PetaPoco), [Dapper] (https://github.com/SamSaffron/dapper-dot-net)
+ 
+* [Jimmy Bogard blog post on ORM strategy] (http://lostechies.com/jimmybogard/2012/07/20/choosing-an-orm-strategy/)
 
 Mono - C# for Linux
 
-* MonoTouch for iOS
+* [Mono for Linux/Windows] (http://mono-project.com/Start)
 
-* Mono for Android
+* [MonoTouch for iOS] (http://xamarin.com/monotouch)
+
+* [Mono for Android] (http://xamarin.com/monoforandroid)
 
 Android - OSS vs. Apple
 
-DevOps with Vagrant, Puppet and/or Chef
+DevOps with [Vagrant] (http://vagrantup.com/), [Puppet] (http://puppetlabs.com/puppet/puppet-open-source/) and/or [Chef] (https://github.com/opscode/chef/)
 
 the LAMP/MAMP installation experience
 
 Releases - tool for deploying to client servers
 
-* uses Nuget and Nuget repository
+* uses [Nuget] (http://nuget.codeplex.com/) and local Nuget repository
 
 OSS licenses
+
+* [by Name] (http://opensource.org/licenses/alphabetical)
+
+* [by Category] (http://opensource.org/licenses/category)
 
 RDI OSS
 
