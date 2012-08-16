@@ -1,5 +1,7 @@
 # OSS, presented by a former skeptic
 
+[Revolution OS] (http://www.youtube.com/watch?v=jw8K460vx1c) - great movie, but...
+
 OSS vs. Proprietary, and why OSS is winning
 
 * the Ruby on Rails story
